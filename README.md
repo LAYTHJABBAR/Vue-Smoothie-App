@@ -1,5 +1,5 @@
 # smoothies
-
+# Live on https://eventree-263123.firebaseapp.com/#/
 > A Vue.js project
 
 ## Build Setup
